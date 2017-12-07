@@ -1,0 +1,66 @@
+[33mcommit eec48d337efc49a6520c6718018879eb682168a0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 14ac982 d9a9c4e
+Author: sungpin <1275796583@qq.com>
+Date:   Thu Dec 7 10:29:23 2017 +0800
+
+    confict solved
+
+[33mcommit 14ac982f88af584c0c3b65d4d54efb994281f946[m
+Author: sungpin <1275796583@qq.com>
+Date:   Thu Dec 7 10:25:53 2017 +0800
+
+    AND simple
+
+[33mcommit d9a9c4e05a6c3d38c277eb44013a8d70710ec8e3[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: sungpin <1275796583@qq.com>
+Date:   Thu Dec 7 10:23:45 2017 +0800
+
+    AND simple
+
+[33mcommit 6d3011d6e4a73b71f74fbdfc5dd31c6b86886f58[m
+Author: sungpin <1275796583@qq.com>
+Date:   Thu Dec 7 09:34:56 2017 +0800
+
+    branch test
+
+[33mcommit 6f298d377ab828f0d89b3fba6323ce786cc6c87a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: sungpin <1275796583@qq.com>
+Date:   Wed Dec 6 22:19:35 2017 +0800
+
+    add test.txt
+
+[33mcommit 3a6c4fba21e4e78071f61c662f6ec870d547920a[m
+Author: sungpin <1275796583@qq.com>
+Date:   Wed Dec 6 22:11:16 2017 +0800
+
+    understand how to track
+
+[33mcommit 07a0beac5cda14ab88f5494169d14fc61e66aac6[m
+Author: sungpin <1275796583@qq.com>
+Date:   Wed Dec 6 22:07:33 2017 +0800
+
+    git tracks changes
+
+[33mcommit bbe64caaf5cde0cadeb0761913d903beaf14cc3a[m
+Author: sungpin <1275796583@qq.com>
+Date:   Wed Dec 6 22:04:55 2017 +0800
+
+    understand how stage works
+
+[33mcommit f061e71de884b282dfc64b8666ff214b53cbd454[m
+Author: sungpin <1275796583@qq.com>
+Date:   Wed Dec 6 21:48:46 2017 +0800
+
+    append GPL
+
+[33mcommit 879a7fff223e04c15b0be61979e7f1b4cf0d7263[m
+Author: sungpin <1275796583@qq.com>
+Date:   Wed Dec 6 21:16:23 2017 +0800
+
+    wrote a readme file
+
+[33mcommit b4ddbedaf7c78219523ccf286107a224b8ae66ea[m
+Author: sungpin <1275796583@qq.com>
+Date:   Wed Dec 6 20:51:21 2017 +0800
+
+    wrote a readme file
